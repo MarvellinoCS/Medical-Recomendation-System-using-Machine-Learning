@@ -1,5 +1,5 @@
 # Introduction
-Welcome to our Medical Recommendation System, a simple platform to help users understand and manage their health. Using machine learning, our system analyzes your symptoms to predict possible diseases.
+Welcome to my Medical Recommendation System, a simple platform to help users understand and manage their health. Using machine learning, our system analyzes your symptoms to predict possible diseases.
 
 Here’s what makes our system special:
 
